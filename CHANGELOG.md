@@ -1,3 +1,15 @@
+# 1.0.0 (2020-11-05)
+
+
+### Bug Fixes
+
+* name ([46099f9](https://github.com/monx-dev/rollup-config/commit/46099f9ebecca27b259cb7665483d81b82d9f40a))
+
+
+### Features
+
+* initial rollup config ([9975276](https://github.com/monx-dev/rollup-config/commit/9975276032d3b10e4e2828bb4d57ddd118f01128))
+
 # [1.1.0](https://github.com/monx-dev/default-services/compare/v1.0.0...v1.1.0) (2020-11-04)
 
 
