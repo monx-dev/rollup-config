@@ -1,4 +1,4 @@
-import rollbarConfig from '../lib/config';
+import Config from '../lib/config';
 
 export type Depedency = { [key: string]: string };
 
@@ -12,9 +12,6 @@ export interface ConfigOptions {
   dependencies: Depedency;
 }
 
-// https://github.com/rollup/plugins/tree/master/packages/babel#babelhelpers
-// const CJS_AND_ES_EXTERNALS = EXTERNAL.concat(/@babel\/runtime/);
+const rollbarConfig = (config: ConfigOptions) => Config(config);
 
-export default (config: ConfigOptions) => {
-  return rollbarConfig(config);
-};
+export default rollbarConfig;
