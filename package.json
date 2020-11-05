@@ -13,7 +13,7 @@
   "scripts": {
     "commit": "git-cz",
     "build": "rollup -c",
-    "postbuild": "copyfiles -u 1 types/*.d.ts dist",
+    "postbuild": "copyfiles -u 2 types/**/*.d.ts dist",
     "release": "semantic-release",
     "test": "yarn build"
   },
