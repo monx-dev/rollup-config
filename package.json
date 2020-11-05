@@ -1,15 +1,15 @@
 {
-  "name": "@monx/rollup-plugin",
+  "name": "@monx/rollup-config",
   "version": "0.0.1",
   "author": "Monx.dev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monx-dev/rollup-plugin.git"
+    "url": "git+https://github.com/monx-dev/rollup-config.git"
   },
   "bugs": {
-    "url": "https://github.com/monx-dev/rollup-plugin/issues"
+    "url": "https://github.com/monx-dev/rollup-config/issues"
   },
-  "homepage": "https://github.com/monx-dev/rollup-plugin#readme",
+  "homepage": "https://github.com/monx-dev/rollup-config#readme",
   "scripts": {
     "commit": "git-cz",
     "build": "rollup -c",
