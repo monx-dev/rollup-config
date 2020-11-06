@@ -1,3 +1,11 @@
+## [1.0.6](https://github.com/monx-dev/rollup-config/compare/v1.0.5...v1.0.6) (2020-11-06)
+
+
+### Bug Fixes
+
+* config ([a7b2e83](https://github.com/monx-dev/rollup-config/commit/a7b2e83813b8fa3d63123cdfde64be93f3312bd8))
+* output ([b3bb97b](https://github.com/monx-dev/rollup-config/commit/b3bb97b671974c7e813abb3f3717533329fabd90))
+
 ## [1.0.5](https://github.com/monx-dev/rollup-config/compare/v1.0.4...v1.0.5) (2020-11-06)
 
 
