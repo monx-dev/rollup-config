@@ -11,10 +11,10 @@
   },
   "homepage": "https://github.com/monx-dev/rollup-config#readme",
   "scripts": {
-    "commit": "commit",
+    "commit": "versioning-commit",
     "build": "rollup -c",
     "postbuild": "copyfiles -u 2 types/**/*.d.ts dist",
-    "release": "release",
+    "release": "versioning-release",
     "test": "yarn build"
   },
   "dependencies": {
@@ -40,7 +40,7 @@
   "license": "MIT",
   "devDependencies": {
     "@monx/eslint-config-next": "^1.0.4",
-    "@monx/versioning": "^1.0.0",
+    "@monx/versioning": "^1.0.1",
     "@types/rollup-plugin-peer-deps-external": "^2.2.0",
     "copyfiles": "^2.4.0",
     "eslint": "^7.3.1",

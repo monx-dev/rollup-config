@@ -806,10 +806,10 @@
     prettier "^2.1.2"
     typescript "^4.0.5"
 
-"@monx/versioning@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@monx/versioning/-/versioning-1.0.0.tgz#8f01eb9f99a67c8ae263b378aa4242e931102608"
-  integrity sha512-Ut8afbcBNo2BEpYBCcZ1zDP3lPP3UyIIpXoWU5wrIIl57w8YfHxRpf/0VlwjFgj74Gb1U9qZNaXFowZ//z+Qug==
+"@monx/versioning@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@monx/versioning/-/versioning-1.0.1.tgz#42bdd421cff526a16aed76a9054b4b2a5c9b9fd7"
+  integrity sha512-88rM6pSlxeU/cQOXr4Jj5oPp9YlIWKdRiMa51YcnMbx7E6vgm/2bIurnX+sfuXPXSbD+/2R86+xsq8jwlMnBbw==
   dependencies:
     "@commitlint/cli" "^8.3.5"
     "@commitlint/config-conventional" "^8.3.4"
@@ -7467,9 +7467,9 @@ qs@~6.5.2:
   integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
 
 query-string@^6.8.2:
-  version "6.13.6"
-  resolved "https://registry.yarnpkg.com/query-string/-/query-string-6.13.6.tgz#e5ac7c74f2a5da43fbca0b883b4f0bafba439966"
-  integrity sha512-/WWZ7d9na6s2wMEGdVCVgKWE9Rt7nYyNIf7k8xmHXcesPMlEzicWo3lbYwHyA4wBktI2KrXxxZeACLbE84hvSQ==
+  version "6.13.7"
+  resolved "https://registry.yarnpkg.com/query-string/-/query-string-6.13.7.tgz#af53802ff6ed56f3345f92d40a056f93681026ee"
+  integrity sha512-CsGs8ZYb39zu0WLkeOhe0NMePqgYdAuCqxOYKDR5LVCytDZYMGx3Bb+xypvQvPHVPijRXB0HZNFllCzHRe4gEA==
   dependencies:
     decode-uri-component "^0.2.0"
     split-on-first "^1.0.0"
