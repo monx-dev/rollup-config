@@ -38,7 +38,7 @@ jobs:
     - name: Build
       run: yarn build
 
-    - name: Release and publish
+    - name: Release
       run: yarn release
 
     - name: Publish

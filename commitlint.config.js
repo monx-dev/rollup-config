@@ -1,3 +1,4 @@
-module.exports = {
-  extends: ['@commitlint/config-conventional'],
-};
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+const { commitlintConfig } = require('@monx/versioning');
+
+module.exports = commitlintConfig;
