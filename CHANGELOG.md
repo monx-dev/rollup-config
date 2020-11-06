@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/monx-dev/rollup-config/compare/v1.0.6...v1.0.7) (2020-11-06)
+
+
+### Bug Fixes
+
+* main ([78c66e8](https://github.com/monx-dev/rollup-config/commit/78c66e8a5cd091e6ac942abafb48de43aad63d1e))
+
 ## [1.0.6](https://github.com/monx-dev/rollup-config/compare/v1.0.5...v1.0.6) (2020-11-06)
 
 
