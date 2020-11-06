@@ -4,6 +4,7 @@ export type Depedency = { [key: string]: string };
 
 export interface ConfigOptions {
   input: string[];
+  format?: 'amd' | 'cjs' | 'system' | 'es' | 'iife' | 'umd';
   peerDependencies?: Depedency;
   dependencies?: Depedency;
 }
