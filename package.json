@@ -14,7 +14,7 @@
     "commit": "versioning-commit",
     "build": "rollup -c",
     "postbuild": "copyfiles -u 2 types/**/*.d.ts dist",
-    "release": "versioning-release",
+    "release": "node node_modules/@monx/versioning/bin/release.js",
     "test": "yarn build"
   },
   "dependencies": {
