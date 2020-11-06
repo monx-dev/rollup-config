@@ -5,6 +5,6 @@ import { main, dependencies } from './package.json';
 export default config({
   dependencies,
   output: 'teste',
-  file: 'src/index.ts',
+  input: 'src/index.ts',
   main,
 });
