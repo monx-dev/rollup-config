@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/monx-dev/rollup-config/compare/v1.0.3...v1.0.4) (2020-11-06)
+
+
+### Bug Fixes
+
+* add @monx/versioning ([e0a1856](https://github.com/monx-dev/rollup-config/commit/e0a18565fc6d5a5b13ff0ea6d0f024f000099e89))
+* update versioning ([6c68c39](https://github.com/monx-dev/rollup-config/commit/6c68c39cb5d103ec87ce208f1d5951f586e0e192))
+* workaround release script ([bab0d54](https://github.com/monx-dev/rollup-config/commit/bab0d5440e5c664b5988724d946a3a3c9dba3c78))
+
 ## [1.0.3](https://github.com/monx-dev/rollup-config/compare/v1.0.2...v1.0.3) (2020-11-05)
 
 
