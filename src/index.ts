@@ -5,7 +5,6 @@ export type Depedency = { [key: string]: string };
 export interface ConfigOptions {
   input: string[];
   peerDependencies?: Depedency;
-  main: string;
   dependencies?: Depedency;
 }
 

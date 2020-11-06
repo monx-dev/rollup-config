@@ -35,7 +35,7 @@
     "ttypescript": "^1.5.12",
     "typescript-transform-paths": "^2.0.2"
   },
-  "main": "dist/index.cjs.js",
+  "main": "dist/index.js",
   "types": "dist/src/index.d.ts",
   "license": "MIT",
   "devDependencies": {
