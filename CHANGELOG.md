@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/monx-dev/rollup-config/compare/v1.1.0...v1.1.1) (2020-11-06)
+
+
+### Bug Fixes
+
+* umd format build ([b78b852](https://github.com/monx-dev/rollup-config/commit/b78b8528e7e78aac10347c5fe585a22b590c231a))
+
 # [1.1.0](https://github.com/monx-dev/rollup-config/compare/v1.0.7...v1.1.0) (2020-11-06)
 
 
