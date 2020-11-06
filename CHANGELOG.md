@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/monx-dev/rollup-config/compare/v1.0.2...v1.0.3) (2020-11-05)
+
+
+### Bug Fixes
+
+* remove peer dependencies ([e99ddba](https://github.com/monx-dev/rollup-config/commit/e99ddba0ff6f1e595619c5683b0b7c4d4df4770b))
+
 ## [1.0.2](https://github.com/monx-dev/rollup-config/compare/v1.0.1...v1.0.2) (2020-11-05)
 
 
