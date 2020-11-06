@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/monx-dev/rollup-config/compare/v1.0.7...v1.1.0) (2020-11-06)
+
+
+### Features
+
+* add format option ([851d4ad](https://github.com/monx-dev/rollup-config/commit/851d4ad02c986d81195e0206ba53d410c92ee3fe))
+
 ## [1.0.7](https://github.com/monx-dev/rollup-config/compare/v1.0.6...v1.0.7) (2020-11-06)
 
 
