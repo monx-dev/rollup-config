@@ -3,8 +3,7 @@ import Config from '../lib/config';
 export type Depedency = { [key: string]: string };
 
 export interface ConfigOptions {
-  file: string;
-  output: string;
+  file: string | string[];
   peerDependencies?: Depedency;
   main?: string;
   browser?: string;
