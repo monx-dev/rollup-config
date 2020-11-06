@@ -3,12 +3,10 @@ import Config from '../lib/config';
 export type Depedency = { [key: string]: string };
 
 export interface ConfigOptions {
-  file: string | string[];
+  input: string[];
   peerDependencies?: Depedency;
-  main?: string;
-  browser?: string;
-  module?: string;
-  dependencies: Depedency;
+  main: string;
+  dependencies?: Depedency;
 }
 
 const rollbarConfig = (config: ConfigOptions) => Config(config);
